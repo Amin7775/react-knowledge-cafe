@@ -16,10 +16,14 @@ function App() {
 
   const [readingTime,setReadingTime]=useState(0);
 
-  const handleMarkAsRead= time => {
+  const handleMarkAsRead= (id,time) => {
     const convertTime = parseInt(time);
     const newReadingTime = readingTime+convertTime;
     setReadingTime(newReadingTime);
+
+    // remove bookmark
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id!==id)
+    setBookmarks(remainingBookmarks);
   }
 
   return (
