@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "cover": "https://i.ibb.co/mXQCrHw/The-Enigmatic-Quest.jpg",
+      "title": "The Enigmatic Quest",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/9pvdz1F/author-1.jpg",
+      "posted_date": "2023-09-15",
+      "reading_time": "45 minutes",
+      "hashtags": ["#fiction", "#mystery", "#adventure"]
+    },
+    {
+      "id": "67890",
+      "cover": "https://i.ibb.co/kgsRzGT/Lost-in-Wonderland.jpg",
+      "title": "Lost in Wonderland",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/nm8f0Wj/author-2.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": "30 minutes",
+      "hashtags": ["#fantasy", "#journey", "#imagination"]
+    },
+    {
+      "id": "24680",
+      "cover": "https://i.ibb.co/179ZB05/Summer-Dreams-2.jpg",
+      "title": "Codebreakers' Legacy",
+      "author": "Alan Johnson",
+      "author_img": "https://i.ibb.co/Vj9LvHc/author-3.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": "60 minutes",
+      "hashtags": ["#thriller", "#puzzle", "#espionage"]
+    },
+    {
+      "id": "13579",
+      "cover": "https://i.ibb.co/V2wPgBc/Summer-Dreams.jpg",
+      "title": "Summer Dreams",
+      "author": "Emily Williams",
+      "author_img": "https://i.ibb.co/LxB5r2R/author-4.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": "25 minutes",
+      "hashtags": ["#romance", "#love", "#beach"]
+    },
+    {
+      "id": "98765",
+      "cover": "https://i.ibb.co/vBPnM8M/Into-the-Unknown.jpg",
+      "title": "Into the Unknown",
+      "author": "David Anderson",
+      "author_img": "https://i.ibb.co/vxTJW7z/author-5.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": "40 minutes",
+      "hashtags": ["#sciencefiction", "#discovery", "#space"]
+    }
+  ]
+  
